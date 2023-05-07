@@ -1,2 +1,2 @@
 # Learning Projects
-These are the learning projects from where I learn so much things about Machine Learning.
+These are the case studies or learning projects from where I learn many things about Machine Learning.
